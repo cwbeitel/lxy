@@ -1,0 +1,13 @@
+{
+	"chr2_10": {"position": 100},
+	"chr2_9": {"position": 90}, 
+	"chr2_8": {"position": 80},
+	"chr2_7": {"position": 70},
+	"chr2_6": {"position": 60},
+	"chr2_5": {"position": 50},
+	"chr2_4": {"position": 40},
+	"chr2_3": {"position": 30},
+	"chr2_2": {"position": 20},
+	"chr2_1": {"position": 10},
+	"chr2_0": {"position": 1},
+}
